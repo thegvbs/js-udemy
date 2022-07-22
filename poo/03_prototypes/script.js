@@ -1,4 +1,4 @@
-// Prototype é um objeto que é pai de todos os objetos do JS.
+// Prototype é um padrão de projeto que permite que classes sejam extendidas.
 
 
 const perfil = {
