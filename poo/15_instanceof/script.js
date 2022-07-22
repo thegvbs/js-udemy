@@ -10,5 +10,4 @@ class Cobra extends Mamifero { // classe cobra herda de mamífero
     }
 }
 
-let Piton = new Cobra(0, 'Piton');
-console.log(Piton);
+console.log(Cobra instanceof Mamifero); // true
